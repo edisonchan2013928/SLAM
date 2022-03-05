@@ -1,5 +1,5 @@
 # SLAM
-This is the implementation of our paper "SLAM: Efficient Sweep Line Algorithms for Kernel Density Visualization", which is submitted to SIGMOD 2022. For those users in the anonymous link, please access this link https://github.com/edisonchan2013928/SLAM.
+This is the implementation of our paper "SLAM: Efficient Sweep Line Algorithms for Kernel Density Visualization", which is submitted to SIGMOD 2022.
 
 **Compiling and running our code:**
 
